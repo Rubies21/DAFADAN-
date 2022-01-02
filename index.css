@@ -1,0 +1,181 @@
+body{
+	background-color: lavender;
+	width: 102%;
+}
+.container{
+	background-color: black;
+	height:200px;
+	width: 102%;
+	margin-left: -10px;
+	margin-right:-100px;
+	
+
+}
+.heading{
+	background-color: black;
+	margin-left: 10px;
+}
+a{
+	padding: 15px;
+	color: white;
+
+}
+/*table{
+	border:1px;
+	background-color: grey;
+	  height:50px;
+	  
+	   float:left; 
+	   margin-top: 10px;	   
+}*/
+.images{
+	align-self: left;
+	padding-top: -20px;
+}
+/*.banner{background-color: grey;
+	height: 50px;
+	 width:30%;
+	 border: thin solid red;
+	}*/
+.container2{
+height: 1100px;
+width: 90%;
+background-color: lavender;
+margin-left: 50px;
+margin-top: 15px;
+
+		/*	border: thick solid black;
+			border-color: currentColor;
+			box-sizing: border-box;
+			box-shadow: 25px 25px 0px 0px;*/
+}
+.welcome{
+	height: 250px;
+	width:70%;
+	background-color:green;
+	
+	border:1px;
+	padding: 5px 5px 5px 5px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+
+}
+.customers{
+	background-color:green;
+	border: 1PX;
+	height: 250px;
+	width: 25%;
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+
+}
+button{
+	align-self: right;
+	border: 1px solid white;
+	background-color: black;
+	color: white;
+	margin-left: 210px;
+}
+.properties{
+
+	background-color: green;
+	margin-top: 280px;
+	height: 40px;
+	width:95%;
+	margin-left: 20px;
+	border: 1px;
+	color:white;
+
+
+
+}
+.first{
+	background-color: green;
+	margin-top: 10px;
+	height: 210px;
+	width:22%;
+	margin-left: 20px;
+}
+.second{
+	background-color: green;
+	margin-top: -210px;
+	height: 210px;
+	width:22%;
+    margin-left: 330px;
+}
+.third{
+	background-color: green;
+	width: 22%;
+	height: 210px;
+	margin-top: -210px;
+	margin-left: 650px;
+}
+.fourth{
+	background-color: green;
+	width: 21%;
+	height: 210px;
+	margin-top: -210px;
+	margin-left: 960px;
+}
+.fifth{
+	margin-left: 20px;
+	margin-top: 50px;
+	
+
+}
+.sixth{
+	margin-left: 330px;
+	margin-top: -400px;
+}
+.seventh{
+	width: 22%;
+	margin-left: 650px;
+	margin-top: -400px;
+}
+.eight{
+	margin-left: 950px;
+	margin-top: -380px;
+	/*border: 1px thick solid black;
+	box-shadow: 10px 10px 10px 10px;
+	box-sizing: border-box;
+	border-color: currentColor;*/
+}
+form{
+	background-color: white;
+	width: 250px;
+	padding-left: 8px;
+	padding-top:0px;
+	margin-top: 10px;
+
+}
+.footer{
+	background-color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

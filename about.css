@@ -1,0 +1,71 @@
+  body{
+	background-color: lavender;
+	width: 102%;
+}
+.container{
+	background-color: black;
+	height:200px;
+	width: 102%;
+	margin-left: -10px;
+	margin-right:-100px;
+	float: top;
+}
+.heading{
+	background-color: black;
+	width: 120%;
+	height:20px;
+
+}
+a{
+	padding: 15px;
+	color: white;
+
+}
+.container2{
+	height: 450%;
+	width:90%;
+	background-color: white;
+	margin-left: 50px;
+	/*border: thin solid red;
+	border-color: currentColor;
+	box-sizing: border-box;
+	box-shadow: 2px 15px 15px 5px rgba(10,0,0,75);*/
+}
+.form1{
+	width: 20%;
+	background-color: green;
+	padding: 8px;
+	margin-left: 10px;
+	padding-top: 1px;
+	margin-bottom:-10px;
+}
+.aboutus{
+	margin-left: 310px;
+	margin-top: -200px;
+}
+.form2{
+	background-color: green;
+	width: 250px;
+	padding: 8px;
+	margin-top: -650px;
+	margin-left: 10px;
+}
+.hotoffer{
+	margin-left: 850px;
+	margin-top:-690px;
+
+}
+.banner{
+	width:80%;
+	height:250px;
+	color: black;
+	height: 190px;
+	background-color: green;
+	margin-left: 20px;
+	margin-top: -220px;
+	
+
+}
+.footer{
+	background-color: green;
+}
